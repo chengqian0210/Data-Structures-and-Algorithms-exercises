@@ -1,0 +1,6 @@
+﻿  栈与进制转换.cpp
+E:\chengqian\Documents\C++\myprojectCPP\栈与进制转换\栈与进制转换\栈与进制转换.cpp(97,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\chengqian\Documents\C++\myprojectCPP\栈与进制转换\栈与进制转换\栈与进制转换.cpp(126,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\chengqian\Documents\C++\myprojectCPP\栈与进制转换\栈与进制转换\栈与进制转换.cpp(69): warning C4715: “stack::push”: 不是所有的控件路径都返回值
+E:\chengqian\Documents\C++\myprojectCPP\栈与进制转换\栈与进制转换\栈与进制转换.cpp(80): warning C4715: “stack::pop”: 不是所有的控件路径都返回值
+  栈与进制转换.vcxproj -> E:\chengqian\Documents\C++\myprojectCPP\栈与进制转换\Debug\栈与进制转换.exe
